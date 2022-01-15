@@ -19,6 +19,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/jvsouzx">
   <img height="300em" src="https://github-readme-stats.vercel.app/api?username=jvsouzx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
+  
 --------------------------------------------
 
 ![Firelink Shrine](https://user-images.githubusercontent.com/60747654/149629033-117675b3-1625-4728-a692-78d087d4c410.gif)
