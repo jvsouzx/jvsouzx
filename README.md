@@ -2,8 +2,7 @@
 
 Estudante de Engenharia da Computação no CEFET-MG Campus V \
 Apaixonado por música & jogos \
-jorgevgsouza@gmail.com 
-<href="https://www.instagram.com/jvsouzx/">
+<a href="jorgevgsouza@gmail.com"> E-mail <\a>  <a href="https://www.instagram.com/jvsouzx/"> Instagram <\a>
 
 --------------------------------------------
 
