@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/jvsouzx">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jvsouzx&repo=jvsouzx" />
-</a>
 
 ![Firelink Shrine](https://user-images.githubusercontent.com/60747654/149629033-117675b3-1625-4728-a692-78d087d4c410.gif)
 
