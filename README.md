@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🔭 Estudante de Engenharia da Computação no CEFET-MG Campus V \
 😄 Apaixonado por jogos \
-💬 E-mail: jorgevgsouza@gmail.com 
+💬 jorgevgsouza@gmail.com 
 
 --------------------------------------------
 
