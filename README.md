@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![bonfire1](https://user-images.githubusercontent.com/60747654/149629033-117675b3-1625-4728-a692-78d087d4c410.gif)
+![Firelink Shrine](https://user-images.githubusercontent.com/60747654/149629033-117675b3-1625-4728-a692-78d087d4c410.gif)
 
-![bonfire2](https://user-images.githubusercontent.com/60747654/149629057-56e89852-6754-4e4e-9627-be8fb4ae960b.gif)
+![Irithyll](https://user-images.githubusercontent.com/60747654/149629057-56e89852-6754-4e4e-9627-be8fb4ae960b.gif)
