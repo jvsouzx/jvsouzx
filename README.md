@@ -15,13 +15,7 @@ Estudando estrutura de dados
 --------------------------------------------
 <div align="center">
   <a href="https://github.com/jvsouzx">
-  <img height="300em" src="https://github-readme-stats.vercel.app/api?username=jvsouzx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
-  
---------------------------------------------
-<div>
-  <a href="https://github.com/jvsouzx">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvsouzx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvsouzx&langs_count=4&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvsouzx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvsouzx&langs_count=4&theme=dark"/>
 </div>
   
