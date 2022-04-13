@@ -7,9 +7,9 @@ Estudando estrutura de dados
 [<a href="https://www.instagram.com/jvsouzx/"> Instagram </a>] [<a href="https://steamcommunity.com/id/jvsouzx/"> Steam </a>] [<a href="https://www.linkedin.com/in/jorgevgsouza/"> LinkedIn </a>]
 
 --------------------------------------------
-<div align="center">
+
 ![Irithyll](https://user-images.githubusercontent.com/60747654/149629057-56e89852-6754-4e4e-9627-be8fb4ae960b.gif)
-</div>
+
 
 
 --------------------------------------------
