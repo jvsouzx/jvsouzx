@@ -3,7 +3,7 @@
 Estudante de Engenharia da Computação no CEFET-MG Campus V \
 Apaixonado por música, jogos & tecnologia no geral
 
-[<a href="https://www.instagram.com/jvsouzx/"> Instagram </a>] [<a href="https://steamcommunity.com/id/jvsouzx/"> Steam </a>] [<a href="https://www.linkedin.com/in/jorgevgsouza/"> LinkedIn </a>]
+[<a href="https://www.instagram.com/jvsouzx/"> Instagram </a>] [<a href="https://www.linkedin.com/in/jorgevgsouza/"> LinkedIn </a>]
 
 --------------------------------------------
 
