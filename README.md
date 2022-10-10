@@ -1,7 +1,7 @@
-### Hi there 👋
+### Olá Mundo!
 
-Estudante de Engenharia da Computação no CEFET-MG Campus V \
-Apaixonado por música, jogos & tecnologia no geral
+Estudante de Engenharia de Computação no CEFET-MG Campus V \
+Apaixonado por música, jogos e tecnologia. Sempre em busca de conhecimento!!
 
 [<a href="https://www.instagram.com/jvsouzx/"> Instagram </a>] [<a href="https://www.linkedin.com/in/jorgevgsouza/"> LinkedIn </a>]
 
