@@ -2,7 +2,7 @@
 
 Estudante de Engenharia de Computação no CEFET-MG Campus V \
 Apaixonado por tecnologia, música e jogos. Sempre em busca de conhecimento!! \
-Atualmente desenvolvendo meu trabalho de conclusão de curso na área de otimização (PO).
+Atualmente desenvolvendo meu trabalho de conclusão de curso na área de Pesquisa Operacional, em específico, tratando de uma variação do VRP (Vehicle Routing Problem).
 [<a href="https://www.instagram.com/jvsouzx/"> Instagram </a>] [<a href="https://www.linkedin.com/in/jorgevgsouza/"> LinkedIn </a>]
 
 --------------------------------------------
