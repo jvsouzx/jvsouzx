@@ -9,13 +9,3 @@ Atualmente desenvolvendo meu trabalho de conclusão de curso na área de otimiza
 
 ![Irithyll](https://user-images.githubusercontent.com/60747654/149629057-56e89852-6754-4e4e-9627-be8fb4ae960b.gif)
 
-
-
---------------------------------------------
-<div align="center">
-  <a href="https://github.com/jvsouzx">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvsouzx&langs_count=4&theme=dark"/>
-</div>
-  
-
---------------------------------------------
