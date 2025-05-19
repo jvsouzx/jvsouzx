@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jvsouzx/)
 
 ### About me
-I have a bachelor's degree in Computer Engineering from CEFET-MG and I'm currently seeking a job opportunity in data analysis, data science, software development, or operational research. I love learning new things and I'm passionate about technology, games, cars, and music.
+I have a bachelor's degree in Computer Engineering from CEFET-MG. I love learning new things and I'm passionate about technology, games, cars, and music.
 
 ### Skills
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a> 
