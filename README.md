@@ -3,7 +3,15 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jvsouzx/)
 
 ### About me
-I have a bachelor's degree in Computer Engineering from CEFET-MG. I love learning new things and I'm passionate about technology, games, cars, and music.
+I have a bachelor's degree in Computer Engineering from CEFET-MG, and I love learning new things.
+
+Some of my passions are:
+  - Technology
+  - Cars
+  - Music
+
+I'm currently working as a Full-Stack Engineer at @bytewer.
+
 
 ### Skills
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a> 
