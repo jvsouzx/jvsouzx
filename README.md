@@ -10,7 +10,7 @@ Some of my passions are:
   - Cars
   - Music
 
-I'm currently working as a Jr Software Engineer at @bytewer.
+I'm currently working as a Full-Stack Developer at @bytewer.
 
 
 ### Skills
