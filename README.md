@@ -1,12 +1,12 @@
-## Hello World, My Name Is Jorge!
+## Hello World!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorgevgsouza/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jvsouzx/)
 
 ### About me
-I have a bachelor's degree in Computer Engineering from CEFET-MG, and I love learning new things.
+ou can call me Jorge. I graduated in Computer Engineering from CEFET-MG, and I'm always looking to learn something new.
 
 Some of my passions are:
-  - Technology
+  - Technology, specifically in backend, AI/Operations Research and Infraestructure.
   - Cars
   - Music
 
