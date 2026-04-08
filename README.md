@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jvsouzx/)
 
 ### About me
-ou can call me Jorge. I graduated in Computer Engineering from CEFET-MG, and I'm always looking to learn something new.
+You can call me Jorge. I graduated in Computer Engineering from CEFET-MG, and I'm always looking to learn something new.
 
 Some of my passions are:
   - Technology, specifically in backend, AI/Operations Research and Infraestructure.
