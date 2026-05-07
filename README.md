@@ -5,7 +5,9 @@
 <div align="center">
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
+
+<div align="left">
 
 ## About me
 
@@ -15,6 +17,8 @@ You can call me Jorge. I graduated in Computer Engineering from CEFET-MG, and I'
 - 🎓 Computer Engineering at CEFET-MG
 - 🧠 Interested in Backend, AI / Operations Research and DevOps
 - 🚗 Cars and 🎵 Music enthusiast
+
+</div>
 
 </td>
 
