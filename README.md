@@ -1,17 +1,101 @@
-## Hello World!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorgevgsouza/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jvsouzx/)
+<h1 align="left">Hello World!</h1>
 
-### About me
+###
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## About me
+
 You can call me Jorge. I graduated in Computer Engineering from CEFET-MG, and I'm always looking to learn something new.
 
-Some of my passions are:
-  - Technology, specifically in backend, AI/Operations Research and Infraestructure.
-  - Cars
-  - Music
+- 💼 Currently working as a Full-Stack Developer at [@Bytewer](https://github.com/bytewer-lab)
+- 🎓 Computer Engineering at CEFET-MG
+- 🧠 Interested in Backend, AI / Operations Research and DevOps
+- 🚗 Cars and 🎵 Music enthusiast
 
-I'm currently working as a Full-Stack Developer at @bytewer.
+</td>
 
+<td width="50%" valign="top">
 
-### Skills
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a> <a href="https://jupyter.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/></a> <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a> <a href="https://numpy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/></a> <a href="https://matplotlib.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/matplotlib/matplotlib-original-wordmark.svg" alt="matplotlib" width="40" height="40"/></a> <a href="https://www.postgresql.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" /></a> <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a> <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C Programming Language" width="40" height="40"/></a> <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C++ Programming Language" width="40" height="40"/></a> <a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a> <a href="https://html.spec.whatwg.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/></a> <a href="https://www.w3schools.com/Css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/></a> <a href="https://www.w3schools.com/Js/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a> <a href="https://www.kernel.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a> <a href="https://latex-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/latex/latex-original.svg" alt="LaTeX" width="40" height="40"/></a>
+## Skills
+
+<div align="left">
+
+<sub><b>Currently working with</b></sub>
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="Python" />
+<img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="38" alt="FastAPI" />
+<img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="38" alt="TypeScript" />
+<img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38" alt="React / React Native" />
+<img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="38" alt="Tailwind CSS" />
+<img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="38" alt="PostgreSQL" />
+<img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="38" alt="Docker" />
+<img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="38" alt="Kubernetes" />
+<img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="38" alt="Terraform" />
+<img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="38" alt="Nginx" />
+<img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="38" alt="Linux" />
+<img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="38" alt="Bash" />
+<img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="Git" />
+</p>
+
+<sub><b>Other tools & languages</b></sub>
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" alt="JavaScript" />
+<img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="38" alt="Jupyter" />
+<img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="38" alt="Pandas" />
+<img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="38" alt="NumPy" />
+<img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original-wordmark.svg" height="38" alt="Matplotlib" />
+<img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="38" alt="Java" />
+<img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="38" alt="C" />
+<img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="38" alt="C++" />
+<img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38" alt="HTML5" />
+<img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" alt="CSS3" />
+<img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="38" alt="LaTeX" />
+</p>
+
+</div>
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## Connect with me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/jorgevgsouza/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="https://www.instagram.com/jvsouzx/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
+  </a>
+</div>
